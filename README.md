@@ -26,3 +26,7 @@ The summary should be as follows:
 3. Mexico 0 - Canada 5
 4. Argentina 3 - Australia 1
 5. Germany 2 - France 2
+
+# Notes
+- no fireworks here, I was told that it must be simple, so it is very simple
+- I'm usually using master, develop and feature branches, but since this is only my branch I left here "main" which was suggested by github. I feel a little wierd about it, but not wierd enough to change it - it is only an exercise after all. 
